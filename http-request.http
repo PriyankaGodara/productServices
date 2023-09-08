@@ -1,0 +1,15 @@
+###
+GET /
+Content-Type: application/json
+
+PUT http://localhost:8080/api/v1/products/{{id}}
+GET http://localhost:8080/products/1231
+
+<> 2023-09-08T151314.404.json
+<> 2023-09-08T151302.404.json
+<> 2023-09-
+
+###
+GET http://localhost:8080/products/{{id}}
+
+###
